@@ -1,6 +1,6 @@
 var fs = require('fs');
 var buffer = fs.readFileSync('index.html');
-var webpage = buf.toString();
+var webpage = buffer.toString();
 
 
 
